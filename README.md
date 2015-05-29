@@ -1,0 +1,2 @@
+# plugin.video.nbcsnliveextra
+nbcsn
